@@ -57,7 +57,7 @@ are the single strongest signal on this entire page. Format:
 
 ## 💼 Where I've been
 
-**Software Engineer 2 — NetApp** · Bangalore · *Dec 2024 – May 2026*
+**Software Engineer 2 — NetApp** · Bangalore · *Dec 2024 – August 2026*
 Production escalation triage and root-cause analysis on Kubernetes/NAS storage infrastructure (GCP). Delivered SLA-driven hotfixes on live customer systems. Built an internal LLM-powered log analyser (hackathon project → adopted by the team) that meaningfully cut initial debugging time. <!-- add a defensible number here if you have one -->
 
 **Software Engineer — Infoblox** · Bangalore · *Jan 2022 – Dec 2024*
